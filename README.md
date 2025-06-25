@@ -24,3 +24,30 @@ cd mini-projects
 # Compile a C program
 gcc project_name.c -o output
 ./output
+
+```
+
+---
+
+## 🎯 Why This Exists
+
+- To **track my progress and evolution** as a developer.
+- To **learn by building**, not just watching tutorials.
+- To **reinforce logic and fundamentals** through hands-on practice.
+- To build a **clean and consistent developer habit**.
+
+---
+
+## 🧠 Author
+
+**Kartik Bhartiya**  
+💻 Upcoming 1st Year CSE Undergrad  
+📧 kartikbhartiya613@gmail.com  
+🌐 GitHub: [@kartikbhartiya](https://github.com/kartikbhartiya)
+
+---
+
+## ⭐️ Support
+
+If you find these projects useful or inspiring, feel free to **drop a ⭐ and share**.  
+Let’s grow together — this is just the beginning 🔥
